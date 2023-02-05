@@ -24,11 +24,11 @@ MonoBehaviour:
   - 0
   - 0
   - 0
+  - 0
+  - 0
   - 205
   - 400
   - 1024
-  - 0
-  - 0
   - 0
   - 0
   - 0
@@ -56,6 +56,8 @@ MonoBehaviour:
   - UI
   - 
   - 
+  - Player
+  - DynamicPose
   - PW_VFX
   - PW_Object_Small
   - PW_Object_Medium
@@ -66,10 +68,8 @@ MonoBehaviour:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Grabbable
+  - Hand
   - 
   - 
   - 
@@ -90,11 +90,11 @@ MonoBehaviour:
   - 0
   - 0
   - 0
+  - 0
+  - 0
   - 102
   - 200
   - 1025
-  - 0
-  - 0
   - 0
   - 0
   - 0
